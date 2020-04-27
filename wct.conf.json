@@ -1,0 +1,17 @@
+{
+  "plugins": {
+    "local": {
+      "skipSeleniumInstall": true,
+      "browsers": [
+        "chrome"
+      ],
+      "browserOptions": {
+        "chrome": [
+          "window-size=1920,1080",
+          "headless",
+          "disable-gpu"
+        ]
+      }
+    }
+  }
+}
