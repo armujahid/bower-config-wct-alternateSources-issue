@@ -1,0 +1,9 @@
+{
+    "resolvers": ["bower-alternative-source-resolver"],
+    "alternateSources": [
+        {
+            "owner": "AbdulRauf",
+            "url": "https://github.com/twbs/${package}.git${version}"
+        }
+    ]
+}

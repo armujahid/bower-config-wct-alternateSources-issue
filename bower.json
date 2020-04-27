@@ -18,6 +18,6 @@
     "web-component-tester": "^6.5.1"
   },
   "dependencies": {
-    "bootstrap": "^4.4.1"
+    "bootstrap": "AbdulRauf/bootsrap#^4.4.1"
   }
 }
